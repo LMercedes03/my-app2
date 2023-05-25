@@ -1,5 +1,9 @@
+* {
+  background-color: blanchedalmond;
+}
+
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +39,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+button {
+  background-color: azure;
+  font-size:medium;
 }
