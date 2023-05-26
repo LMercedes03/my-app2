@@ -1,8 +1,8 @@
 import { Nav } from './Nav';
-import { HomePage} from './Pages/HomePage.js'
+import { HomePage} from './Pages/HomePage.js';
 import { AboutPage } from './Pages/AboutPage';
 import { ContactPage } from './Pages/ContactPage';
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 
 function App() {
